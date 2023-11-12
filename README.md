@@ -1,4 +1,4 @@
-<img src="assets/images/poster.png" data-canonical-src="assets/images/poster.png" style="max-width:100%;">
+<img src="assets/images/poster.png" data-canonical-src="assets/images/poster.png" width="400" height="400">
 
 ## Deskripsi Singkat
 Panduan sholat adalah aplikasi yang memberikan panduan langkah demi langkah, termasuk posisi gerakan dan bacaan doa yang harus diucapkan waktu sholat.
@@ -12,7 +12,7 @@ Panduan sholat adalah aplikasi yang memberikan panduan langkah demi langkah, ter
 * Ayat Kursi : berisi ayat kursi dengan latin, terjemahan dan tafsirannya
 
 ## Screenshoots
-<img src="assets/images/fitur.jpg" data-canonical-src="assets/images/fitur.jpg" style="max-width:100%;">
+<img src="assets/images/fitur.jpg" data-canonical-src="assets/images/fitur.jpg" width="400" height="400">
 
 Aplikasi ini dibuat untuk memenuhi nilai tugas pada mata kuliah Pemrograman Mobile dari Kelompok 5 
 Pendidikan Teknologi Informasi 2022, Fakultas Teknik, Universitas Negeri Surabaya
