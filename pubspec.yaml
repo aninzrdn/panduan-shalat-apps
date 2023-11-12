@@ -61,6 +61,8 @@ flutter:
    - assets/images/sholat 2.jpg
    - assets/images/sunset.jpg
    - assets/images/quran 2.jpg
+   - assets/images/fitur.jpg
+   - assets/images/poster.png
 
    - assets/data/bacaanshalat.json
    - assets/data/niatshalat.json
