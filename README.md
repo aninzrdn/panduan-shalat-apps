@@ -1,4 +1,4 @@
-<img src="assets/images/poster.png" data-canonical-src="assets/images/poster.png" width="450" height="600">
+<img src="assets/images/poster.png" data-canonical-src="assets/images/poster.png" width="450" height="500">
 
 ## Deskripsi Singkat
 Panduan sholat adalah aplikasi yang memberikan panduan langkah demi langkah, termasuk posisi gerakan dan bacaan doa yang harus diucapkan waktu sholat.
